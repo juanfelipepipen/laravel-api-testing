@@ -1,5 +1,5 @@
 {
-  "name": "juanfelipepipen/api-testing",
+  "name": "pipen/laravel-api-testing",
   "description": "A simple package for test endpoints in API REST in Laravel",
   "type": "library",
   "license": "MIT",
